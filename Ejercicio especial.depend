@@ -1,0 +1,59 @@
+# depslib dependency file v1.0
+1558288914 source:c:\users\benjamin\desktop\benjamin\ejercicio especial\main.cpp
+	<iostream>
+	<conio.h>
+	<cstdlib>
+	<stdio.h>
+	<string.h>
+	"Listado.h"
+	"Pila.h"
+	"Cola.h"
+
+1558237893 c:\users\benjamin\desktop\benjamin\ejercicio especial\lista.h
+	<iostream>
+	<conio.h>
+	<cstdlib>
+	<stdio.h>
+	<string.h>
+
+1558252304 c:\users\benjamin\desktop\benjamin\ejercicio especial\listado.h
+	<iostream>
+	<conio.h>
+	<cstdlib>
+	<stdio.h>
+	<string.h>
+
+1558239970 c:\users\benjamin\desktop\benjamin\ejercicio especial\pila.h
+	<iostream>
+	<conio.h>
+	<cstdlib>
+	<stdio.h>
+	<string.h>
+	"Listado.h"
+
+1558250370 source:c:\users\benjamin\desktop\benjamin\ejercicio especial\pila.cpp
+	<iostream>
+	<conio.h>
+	<cstdlib>
+	<stdio.h>
+	<string.h>
+	"Listado.h"
+	"Pila.h"
+
+1558253575 source:c:\users\benjamin\desktop\benjamin\ejercicio especial\cola.cpp
+	"Cola.h"
+	<iostream>
+	<conio.h>
+	<cstdlib>
+	<stdio.h>
+	<string.h>
+	"Listado.h"
+
+1558253567 c:\users\benjamin\desktop\benjamin\ejercicio especial\cola.h
+	<iostream>
+	<conio.h>
+	<cstdlib>
+	<stdio.h>
+	<string.h>
+	"Listado.h"
+
